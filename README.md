@@ -1,4 +1,4 @@
-# RF_DETR C++ TensorRT
+# RF-DETR C++ TensorRT
 ![RF_DETR C++ TensorRT ](asset/RF_DETR-CPP-TensorRT.JPG)
 
 [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue?style=flat&logo=GitHub)](https://github.com/yourusername/RF_DETR-TensorRT)
